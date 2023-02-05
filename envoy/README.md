@@ -10,3 +10,18 @@
 ## envoy Filters
 
 - https://github.com/envoyproxy/envoy-filter-example
+
+---
+
+## DB filters
+
+- https://github.com/envoyproxy/envoy/tree/main/source/extensions/filters/network
+- https://github.com/envoyproxy/envoy/tree/main/contrib
+
+## Requirements
+
+- SSL terminate at Envoy
+- SSL with upstream db
+- Full protocol support
+- Test suite for DB protocols
+- RBAC
