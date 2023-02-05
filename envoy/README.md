@@ -25,3 +25,11 @@
 - Full protocol support
 - Test suite for DB protocols
 - RBAC
+
+---
+
+### Upstream TLS
+
+- https://app.slack.com/client/T5CALEVRN/threads/thread/C78M4KW76-1675584978.859139
+- https://envoyproxy.slack.com/archives/C78M4KW76/p1675584978859139
+- pg: https://github.com/envoyproxy/envoy/pull/23990
