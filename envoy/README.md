@@ -4,3 +4,9 @@
 - https://github.com/envoyproxy/envoy/tree/main/bazel#enabling-and-disabling-extensions
 - PR: https://github.com/envoyproxy/envoy/pull/25360
 - Twitter: https://twitter.com/moderat10n/status/1621979870468374528
+
+---
+
+## envoy Filters
+
+- https://github.com/envoyproxy/envoy-filter-example
