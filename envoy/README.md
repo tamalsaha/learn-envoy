@@ -39,3 +39,10 @@ https://github.com/cncf/xds/tree/main/xds
 - https://app.slack.com/client/T5CALEVRN/threads/thread/C78M4KW76-1675584978.859139
 - https://envoyproxy.slack.com/archives/C78M4KW76/p1675584978859139
 - pg: https://github.com/envoyproxy/envoy/pull/23990
+
+---
+
+### compile cmake
+
+- https://robots.uc3m.es/installation-guides/install-cmake.html#install-cmake-319-ubuntu-1804-bionic
+- 
